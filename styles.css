@@ -1,0 +1,31 @@
+*{
+    font-family:'Courier New',Courier, monospace;
+}
+.nav-container{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+}
+.navlinks-container{
+    display:flex;
+    gap: 32px;
+}
+.logo{
+    font-size: 32px;
+    color:rgb(0, 255, 8);
+}
+.body-container{
+    width: 90%;
+    margin:auto;
+}
+.post-btn{
+    background-color:palegoldenrod;
+    padding: 8px 32px;
+    color: blueviolet;
+    border:1px;
+    border-radius: 5px;
+}
+.main-container{
+    width: 30px;
+    margin: auto;
+}
